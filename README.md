@@ -1,6 +1,6 @@
 # Project title
 
-Pendu.
+Tic Tac Toe.
 
 ## Description
 
